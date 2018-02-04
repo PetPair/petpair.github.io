@@ -1,0 +1,57 @@
+@font-face {
+	font-family: "dia";
+	src: url('Dialoegue Font by Situjuh Nazara.otf');
+}
+@font-face {
+	font-family: "moon";
+	src: url('Moon Flower Bold.ttf');
+}
+@font-face {
+	font-family: "Shorelines";
+	src: url('Shorelines Script Bold.otf');
+}
+@font-face {
+	font-family: "kopi";
+	src: url('Warung Kopi.otf');
+}
+a {
+	font-family: "moon";
+	font-size: 30px;
+	color: #4380c1;
+}
+body {
+	background-color: white;
+}
+h3 {
+	color: #284e8c;
+	font-size: 80px;
+	font-family:'Shorelines';
+	padding: 1cm;
+	
+}
+header {
+	background-color: #306f8e;
+}
+h2 {
+	font-family: 'kopi';
+	font-size: 30px;
+	color: #bf9816;
+	padding-left: 5cm;
+	padding-right: 5cm;
+}
+h1 {
+	font-family: 'kopi';
+	font-size: 40px;
+	color: black;
+	padding-left: 5cm;
+	padding-right: 5cm;
+}
+div {
+	background-color: #edb54e;
+	width: 30000px;
+	border: 0px;
+	margin: 0px;
+	font-family: "moon";
+}
+
+
